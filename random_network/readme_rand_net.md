@@ -4,7 +4,7 @@ Use Secant continuation; \
 3 Figures: 1. Plot bifurcation, 2. Display 9 configurations across time, and 3. Show the graph in circular layout\
 \
 Driver_Rand_p.m:\
-All the same except for controlling the probability of each edge to be present is p
+All the same except for controlling the probability of each edge to be present is p\
 \
 parameters:\
 N: number of nodes\
