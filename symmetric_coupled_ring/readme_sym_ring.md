@@ -7,7 +7,7 @@ certainplot.m:\
 View configurations at certain steps (upon specification) in sol obtained from LDS_Driver_neighbor.m\
 \
 circulant.m:\
-Return circulant matrix (file downloaded from MathWorks https://www.mathworks.com/matlabcentral/fileexchange/22858-circulant-matrix on 6/16/2021)
+Return circulant matrix (file downloaded from MathWorks https://www.mathworks.com/matlabcentral/fileexchange/22858-circulant-matrix on 6/16/2021)\
 \
 parameters:\
 N: number of nodes\
