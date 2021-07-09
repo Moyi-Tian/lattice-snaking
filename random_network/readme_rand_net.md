@@ -5,3 +5,11 @@ Use Secant continuation; \
 \
 Driver_Rand_p.m:\
 All the same except for controlling the probability of each edge to be present is p
+\
+parameters:\
+N: number of nodes\
+p0(1): coupling strength d\
+p0(2): value of mu\
+steps: continuation steps\
+stepsize: continuation stepsize (default: 0.0005)\
+u0: initial conditions (N*1 vector)
