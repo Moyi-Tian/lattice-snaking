@@ -1,2 +1,2 @@
 # lattice-snaking
-Snaking Bifurcation in Lattice Dynamical Systems
+Explore Snaking Bifurcations in Lattice Dynamical Systems
