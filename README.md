@@ -1,6 +1,6 @@
 # lattice-snaking
-Explore Snaking Bifurcations in Lattice Dynamical Systems\
-\
+**Explore Snaking Bifurcations in Lattice Dynamical Systems**
+
 ## Research Record:
 Random network\
 All-to-all coupling\
