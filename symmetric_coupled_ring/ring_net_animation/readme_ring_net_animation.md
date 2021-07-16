@@ -42,7 +42,7 @@ p0(1): coupling strength d\
 p0(2): value of mu\
 steps: continuation steps\
 stepsize: continuation stepsize\
-m: number of nearest neighbors to right and left (error message returned if number specified exceeds possible values)\
+m: number of connected neighbors to right and left (error message returned if number specified exceeds possible values)\
 u0: initial conditions (N*1 vector)\
 k: number of initial nodes at value a\
 adapt_stepsize: flag for Tangent Continuation (testbif.m)
