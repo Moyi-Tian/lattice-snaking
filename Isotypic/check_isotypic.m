@@ -10,6 +10,6 @@ for n=2:N
 	no = isotypic(2*n-1); % odd number from 3
 	no = [no(1:2)*2, no(3:end)];
 	if sum(no(no>2))>0
-		disp(2*n)
+		disp(2*n-1)
 	end
 end
