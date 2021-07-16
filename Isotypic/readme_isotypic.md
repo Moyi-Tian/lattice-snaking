@@ -8,3 +8,6 @@ Function\
 Input N\
 Check from 3 to 2*N\
 Return value if some irreducible representation has dimension greater than 2 for some Laplace-n
+
+## Experimental result:
+None has any irreducible representation with dimension greater than 2, i.e., all irreducible representations of D_n are one or two-dimensional.
