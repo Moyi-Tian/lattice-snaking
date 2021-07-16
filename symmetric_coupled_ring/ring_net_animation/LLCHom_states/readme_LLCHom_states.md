@@ -17,8 +17,9 @@ Use mu1 returned from hom_bif_mu.m as initial mu value\
 Check if initial condition is a solution for LDS_RHS\
 3 figures:\
 &nbsp;&nbsp;&nbsp;&nbsp; 1. bifurcation plot constantly updated for monitoring\
-&nbsp;&nbsp;&nbsp;&nbsp; 2. subplot 1: bifurcation diagram with intial point circled in red and end point circled in magenta; subplot 2: first 3 spectra
+&nbsp;&nbsp;&nbsp;&nbsp; 2. subplot 1: bifurcation diagram with intial point circled in red and end point circled in magenta; subplot 2: first 3 spectra\
 &nbsp;&nbsp;&nbsp;&nbsp; 3. 3 line plots for differences in node values at each step (1. maximum of absolute difference in values between adjacent nodes; 2. value of 10th node minus u-plus(mu); 3. value of 10th node minus u-minus(mu))\
+Save data file\
 Parameters:\
 N: number of nodes\
 p0(1): coupling strength d\
