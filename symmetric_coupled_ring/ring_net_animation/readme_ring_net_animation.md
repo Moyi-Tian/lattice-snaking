@@ -1,10 +1,10 @@
 Continuation methods:\
 SecantContinuationLDS.m:\
-Munually preset chkst (number of steps skipped between plots shown for monitoring purpose)\
-Return eflag (steps where fsolve gives exit flag with value less than or equal to 0)\
+  Munually preset chkst (number of steps skipped between plots shown for monitoring purpose)\
+  Return eflag (steps where fsolve gives exit flag with value less than or equal to 0)\
 TangentContinuationLDS.m:\
-Munually preset chkst (number of steps skipped between plots shown for monitoring purpose)\
-Adjust step size if pre-given flag == 1\
+  Munually preset chkst (number of steps skipped between plots shown for monitoring purpose)\
+  Adjust step size if pre-given flag == 1\
 \
 \
 test.m:\
